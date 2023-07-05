@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39612081480",
+    "project_id": "location-fetcher-ae12a",
+    "storage_bucket": "location-fetcher-ae12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39612081480:android:e90323cbedf6aca14fff7d",
+        "android_client_info": {
+          "package_name": "com.Abhinav.locationfetcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39612081480-qol2j76h7l2852u6c0k4ra8eciqv7um2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRF133ZgXuuNktJUmM9RJttvJYKzAHFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39612081480-qol2j76h7l2852u6c0k4ra8eciqv7um2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
