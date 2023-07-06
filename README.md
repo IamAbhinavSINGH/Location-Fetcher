@@ -33,7 +33,7 @@ It also provides a feature to retrieve the last location stored on the server,el
 ## Configuration
 To set up the app to work with your own remote server, you need to make the following configuration changes:
 
-1. Clone or download the repository: https://github.com/yourusername/android-location-tracker.
+1. Clone or download the repository: https://github.com/IamAbhinavSINGH/Location-Fetcher.git.
 2. Open the project in Android Studio.
 3. Connect your Android device to your computer.
 4. Set up a Firebase project and enable Realtime Database.
